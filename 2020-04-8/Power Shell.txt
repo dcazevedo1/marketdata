@@ -1,0 +1,215 @@
+PS C:\Users\dazev9k\OneDrive - terago.ca\Data_Analysis> cd ..
+PS C:\Users\dazev9k\OneDrive - terago.ca> cd ..
+
+PS C:\Users\dazev9k> dir
+
+
+    Directory: C:\Users\dazev9k
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2019-08-29   4:18 PM                .cisco
+d-----       2019-11-25  10:33 PM                .ipynb_checkpoints
+d-----       2019-10-27   4:40 PM                .ipython
+d-----       2019-11-03   1:04 PM                .jupyter
+d-----       2019-11-03   1:59 PM                .matplotlib
+d-----       2019-11-27   9:27 PM                .wdm
+d-r---       2020-03-17   9:55 PM                3D Objects
+d-r---       2020-03-17   9:55 PM                Contacts
+d-r---       2020-04-10   2:12 PM                Desktop
+d-r---       2020-03-30  10:54 AM                Documents
+d-r---       2020-04-10   1:55 PM                Downloads
+d-r---       2020-04-08  11:31 AM                Favorites
+d-r---       2020-03-17   9:55 PM                Links
+d-r---       2020-03-17   9:55 PM                Music
+d-r---       2019-08-22   4:15 PM                ODBA
+d-r---       2019-08-22   4:55 PM                OneDrive
+dar--l       2020-04-10   2:05 PM                OneDrive - terago.ca
+d-r---       2020-03-17   9:55 PM                Pictures
+d-r---       2020-03-17   9:55 PM                Saved Games
+d-r---       2020-03-17   9:55 PM                Searches
+d-r---       2020-03-17   9:55 PM                Videos
+-a----       2019-12-01   2:16 PM          12890 Linkedin Webscrapping Project.ipynb
+-a----       2019-10-27   4:40 PM             72 Untitled.ipynb
+
+
+PS C:\Users\dazev9k> cd Desktop
+PS C:\Users\dazev9k\Desktop> dir
+
+
+    Directory: C:\Users\dazev9k\Desktop
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2020-03-13   5:14 PM                13-03
+d-----       2019-11-19   4:14 PM                Back Up
+d-----       2019-11-11   9:04 AM                Dados
+d-----       2020-04-10   2:07 PM                marketdata
+d-----       2019-11-27   3:41 PM                unsaved
+-a----       2019-11-10  10:00 PM         100928 33801D68.tmp
+-a----       2019-08-22  10:35 AM         160082 41157FAD.tmp
+-a----       2019-08-22  10:36 AM         160257 56DB69CA.tmp
+-a----       2019-08-22  10:58 AM         160573 77C23949.tmp
+-a----       2019-08-22  10:40 AM         160573 7B26D468.tmp
+-a----       2019-11-10  10:01 PM         100712 8860EE49.tmp
+-a----       2020-02-03   9:42 AM         201462 AA_Order Form - 20190925 - Release.docm
+-a----       2020-03-02   3:09 PM         248974 AA_Order Form - 20200205 (003).docm
+-a----       2020-03-02   3:12 PM         249465 AA_Order Form - 20200205.docm
+-a----       2020-02-24   9:28 AM          58053 Addendum Form_06.09.16.docx
+-a----       2020-03-31   3:23 PM           1231 Andy Approval.txt
+-a----       2020-02-10  10:22 AM          17845 Book1.xlsm
+-a----       2019-10-10   2:39 PM          11508 Book1.xlsx
+-a----       2019-12-15   8:31 PM           8214 Book2.xlsx
+-a----       2020-02-03   9:18 AM          17920 Calendario Agosto 2009.xls
+-a----       2020-02-25   3:08 PM          81624 Capture.PNG
+-a----       2020-01-26   2:19 PM        3117479 Churn Prediction.pptx
+-a----       2020-04-07   6:18 PM         517500 Contrato Extensao PGWP.pdf
+-a----       2019-08-30   2:45 PM         237533 Copy of Design Templates_rev2.xlsx
+-a----       2019-11-05   4:07 PM         321836 Copy of Netset - Oct 29th quote2 (002).xlsm
+-a----       2019-08-21   4:01 PM         342641 Copy of V3_Silvacom_renewal2019 (003).pdf
+-a----       2020-03-26  11:39 AM          15326 Daniel's test results.xlsx
+-a----       2020-01-27   7:18 PM       52129936 dbeaver-ce-6.3.3-x86_64-setup.exe
+-a----       2019-08-22  10:58 AM         160573 FD0FEB6.tmp
+-a----       2020-03-03   1:33 PM          14662 Finance Approval.docx
+-a----       2020-02-03  12:31 PM         832947 Glentel_Retail_ New Non-Standard Economics_01172020.xlsm
+-a----       2020-02-25   5:49 PM              0 How to2.txt
+-a----       2019-08-21   5:33 PM         490523 IMP Copy of V3_Silvacom_renewal2019 (003).xlsm
+-a----       2019-08-16   2:09 PM           1417 Microsoft Edge.lnk
+-a----       2020-03-10   3:23 PM           2373 Microsoft Teams.lnk
+-a----       2020-03-05  10:55 AM            141 More info to Finance.txt
+-a----       2019-11-05   4:08 PM              0 mso24FD.tmp
+-a----       2019-11-05   4:11 PM              0 msoB4D0.tmp
+-a----       2020-03-26   3:19 PM         762880 Multisite ECOS 20_1 V2.xlsm
+-a----       2019-11-04   9:54 PM      285494355 mysql-8.0.18-winx64.zip
+-a----       2020-01-02  12:11 AM         333762 Netset - Oct 29th quote2.xlsm
+-a----       2019-11-19   2:50 PM             59 Non Standard Economics_2019_11_16 (retail validation).7z
+-a----       2019-10-09   4:14 PM       12095856 Non Standard Economics_2019_v23.xlsm
+-a----       2019-10-10  11:15 AM       12035192 Non Standard Economics_2019_v24.xlsm
+-a----       2019-10-11   5:31 PM       21566030 Non Standard Economics_2019_v25.xlsm
+-a----       2020-04-07   2:14 PM         875017 pdf.pdf
+-a----       2020-02-25   5:50 PM            347 PDR Instructions.txt
+-a----       2019-12-19   1:02 PM          99855 Print coverage card(s).pdf~RF5c2ae01.TMP
+-a----       2019-12-01   8:12 PM           4093 project.txt
+-a----       2020-02-05   5:37 PM         147266 RE- Cap Check and RF - Glentel multi sites.eml
+-a----       2020-03-03   1:24 PM         817264 Retail Standard Mimosa B24 Economics_02242020.xlsm
+-a----       2020-02-26   1:58 PM         817165 Retail_ New Non-Standard Economics_02242020 (1).xlsm
+-a----       2020-02-26   1:27 PM         817165 Retail_ New Non-Standard Economics_02242020.xlsm
+-a----       2020-03-06   5:34 PM         802460 Retail_Ceragon 24Ghz_CAASCO-New Market-3yr-UI50.xlsm
+-a----       2020-01-22   9:56 AM         802469 Retail_Ceragon 24Ghz_Soak Wash-5630 Tomken Rd-3yr-UI100.xlsm
+-a----       2020-04-07   1:06 PM        1005919 Retail_Product Pricebook - v28.pdf
+-a----       2020-02-14   5:03 PM         931328 RE_ Wireless Capacity Check (URGENT REQUEST) - G2S Equipment_ 5645 70
+                                                 St NW_ Edmonton_ AB T6B 3P6 UI-100M.msg
+-a----       2019-08-21   5:26 PM         245248 Silvacom Invoice_Aug2019.xlsx
+-a----       2020-04-07   2:27 PM         189440 South Caledon DC61 TeraGo Circuit.msg
+-a----       2019-11-13   2:02 PM         319141 TeraGo Quote Tool _19_v14_Retail-2.xlsm
+-a----       2020-02-06  11:19 AM         325218 TeraGo Quote Tool _19_v15_2_Retail.xlsm
+-a----       2020-01-02   9:32 AM         316094 TeraGo Quote Tool _19_v15_Wholesale.xlsm
+-a----       2019-08-22  10:59 AM         160573 TeraGoQuotation_22-Aug-19.pdf
+-a----       2020-04-07   6:09 PM         486444 TERMO DE CIÊNCIA_IMMI CANADA_Canada.pdf
+-a----       2019-12-31  11:07 PM           8264 test.xlsm
+-a----       2020-03-30   5:21 PM         792215 V2 Allco Data Third Partt Internet Resale-ECOS-UI50.xlsm
+-a----       2020-03-23   4:38 PM         817264 V2 BuildEconomicModel_ExaCorp_STOLPORTCorpBillyBishop_UI200M_3YR-20200
+                                                 1v1.0 (1).xlsm
+-a----       2020-03-26   2:22 PM         787457 V2 Multisite ECOS 20_1.xlsm
+-a----       2020-03-12   5:13 PM         365442 V2_Peace Library - DR- TeraGo Quote Tool_Retail_v19-1.xlsm
+
+
+PS C:\Users\dazev9k\Desktop> dir
+
+
+    Directory: C:\Users\dazev9k\Desktop
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2020-03-13   5:14 PM                13-03
+d-----       2019-11-19   4:14 PM                Back Up
+d-----       2019-11-11   9:04 AM                Dados
+d-----       2020-04-10   2:07 PM                Projects
+d-----       2019-11-27   3:41 PM                unsaved
+-a----       2019-11-10  10:00 PM         100928 33801D68.tmp
+-a----       2019-08-22  10:35 AM         160082 41157FAD.tmp
+-a----       2019-08-22  10:36 AM         160257 56DB69CA.tmp
+-a----       2019-08-22  10:58 AM         160573 77C23949.tmp
+-a----       2019-08-22  10:40 AM         160573 7B26D468.tmp
+-a----       2019-11-10  10:01 PM         100712 8860EE49.tmp
+-a----       2020-02-03   9:42 AM         201462 AA_Order Form - 20190925 - Release.docm
+-a----       2020-03-02   3:09 PM         248974 AA_Order Form - 20200205 (003).docm
+-a----       2020-03-02   3:12 PM         249465 AA_Order Form - 20200205.docm
+-a----       2020-02-24   9:28 AM          58053 Addendum Form_06.09.16.docx
+-a----       2020-03-31   3:23 PM           1231 Andy Approval.txt
+-a----       2020-02-10  10:22 AM          17845 Book1.xlsm
+-a----       2019-10-10   2:39 PM          11508 Book1.xlsx
+-a----       2019-12-15   8:31 PM           8214 Book2.xlsx
+-a----       2020-02-03   9:18 AM          17920 Calendario Agosto 2009.xls
+-a----       2020-02-25   3:08 PM          81624 Capture.PNG
+-a----       2020-01-26   2:19 PM        3117479 Churn Prediction.pptx
+-a----       2020-04-07   6:18 PM         517500 Contrato Extensao PGWP.pdf
+-a----       2019-08-30   2:45 PM         237533 Copy of Design Templates_rev2.xlsx
+-a----       2019-11-05   4:07 PM         321836 Copy of Netset - Oct 29th quote2 (002).xlsm
+-a----       2019-08-21   4:01 PM         342641 Copy of V3_Silvacom_renewal2019 (003).pdf
+-a----       2020-03-26  11:39 AM          15326 Daniel's test results.xlsx
+-a----       2020-01-27   7:18 PM       52129936 dbeaver-ce-6.3.3-x86_64-setup.exe
+-a----       2019-08-22  10:58 AM         160573 FD0FEB6.tmp
+-a----       2020-03-03   1:33 PM          14662 Finance Approval.docx
+-a----       2020-02-03  12:31 PM         832947 Glentel_Retail_ New Non-Standard Economics_01172020.xlsm
+-a----       2020-02-25   5:49 PM              0 How to2.txt
+-a----       2019-08-21   5:33 PM         490523 IMP Copy of V3_Silvacom_renewal2019 (003).xlsm
+-a----       2019-08-16   2:09 PM           1417 Microsoft Edge.lnk
+-a----       2020-03-10   3:23 PM           2373 Microsoft Teams.lnk
+-a----       2020-03-05  10:55 AM            141 More info to Finance.txt
+-a----       2019-11-05   4:08 PM              0 mso24FD.tmp
+-a----       2019-11-05   4:11 PM              0 msoB4D0.tmp
+-a----       2020-03-26   3:19 PM         762880 Multisite ECOS 20_1 V2.xlsm
+-a----       2019-11-04   9:54 PM      285494355 mysql-8.0.18-winx64.zip
+-a----       2020-01-02  12:11 AM         333762 Netset - Oct 29th quote2.xlsm
+-a----       2019-11-19   2:50 PM             59 Non Standard Economics_2019_11_16 (retail validation).7z
+-a----       2019-10-09   4:14 PM       12095856 Non Standard Economics_2019_v23.xlsm
+-a----       2019-10-10  11:15 AM       12035192 Non Standard Economics_2019_v24.xlsm
+-a----       2019-10-11   5:31 PM       21566030 Non Standard Economics_2019_v25.xlsm
+-a----       2020-04-07   2:14 PM         875017 pdf.pdf
+-a----       2020-02-25   5:50 PM            347 PDR Instructions.txt
+-a----       2019-12-19   1:02 PM          99855 Print coverage card(s).pdf~RF5c2ae01.TMP
+-a----       2019-12-01   8:12 PM           4093 project.txt
+-a----       2020-02-05   5:37 PM         147266 RE- Cap Check and RF - Glentel multi sites.eml
+-a----       2020-03-03   1:24 PM         817264 Retail Standard Mimosa B24 Economics_02242020.xlsm
+-a----       2020-02-26   1:58 PM         817165 Retail_ New Non-Standard Economics_02242020 (1).xlsm
+-a----       2020-02-26   1:27 PM         817165 Retail_ New Non-Standard Economics_02242020.xlsm
+-a----       2020-03-06   5:34 PM         802460 Retail_Ceragon 24Ghz_CAASCO-New Market-3yr-UI50.xlsm
+-a----       2020-01-22   9:56 AM         802469 Retail_Ceragon 24Ghz_Soak Wash-5630 Tomken Rd-3yr-UI100.xlsm
+-a----       2020-04-07   1:06 PM        1005919 Retail_Product Pricebook - v28.pdf
+-a----       2020-02-14   5:03 PM         931328 RE_ Wireless Capacity Check (URGENT REQUEST) - G2S Equipment_ 5645 70
+                                                 St NW_ Edmonton_ AB T6B 3P6 UI-100M.msg
+-a----       2019-08-21   5:26 PM         245248 Silvacom Invoice_Aug2019.xlsx
+-a----       2020-04-07   2:27 PM         189440 South Caledon DC61 TeraGo Circuit.msg
+-a----       2019-11-13   2:02 PM         319141 TeraGo Quote Tool _19_v14_Retail-2.xlsm
+-a----       2020-02-06  11:19 AM         325218 TeraGo Quote Tool _19_v15_2_Retail.xlsm
+-a----       2020-01-02   9:32 AM         316094 TeraGo Quote Tool _19_v15_Wholesale.xlsm
+-a----       2019-08-22  10:59 AM         160573 TeraGoQuotation_22-Aug-19.pdf
+-a----       2020-04-07   6:09 PM         486444 TERMO DE CIÊNCIA_IMMI CANADA_Canada.pdf
+-a----       2019-12-31  11:07 PM           8264 test.xlsm
+-a----       2020-03-30   5:21 PM         792215 V2 Allco Data Third Partt Internet Resale-ECOS-UI50.xlsm
+-a----       2020-03-23   4:38 PM         817264 V2 BuildEconomicModel_ExaCorp_STOLPORTCorpBillyBishop_UI200M_3YR-20200
+                                                 1v1.0 (1).xlsm
+-a----       2020-03-26   2:22 PM         787457 V2 Multisite ECOS 20_1.xlsm
+-a----       2020-03-12   5:13 PM         365442 V2_Peace Library - DR- TeraGo Quote Tool_Retail_v19-1.xlsm
+
+
+PS C:\Users\dazev9k\Desktop> cd Projects
+PS C:\Users\dazev9k\Desktop\Projects> git clone https://github.com/dcazevedo1/marketdata.git
+Cloning into 'marketdata'...
+warning: You appear to have cloned an empty repository.
+PS C:\Users\dazev9k\Desktop\Projects> dir
+
+
+    Directory: C:\Users\dazev9k\Desktop\Projects
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2020-04-10   2:15 PM                marketdata
+
+
+PS C:\Users\dazev9k\Desktop\Projects>
